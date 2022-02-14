@@ -1,0 +1,58 @@
+.first 
+{
+    background-image: url(../images/masged.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+}
+.first .second
+{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 600px;
+}
+.first .second .third h2,p
+{
+    text-align: center;
+    display: block;
+    margin: auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.first .second .third p
+{
+    padding-top: 25px;
+}
+.first .second .third
+{
+    padding-top: 220px;
+}
+.first
+{
+    text-align: center;
+}
+.first .fourth
+{
+    display: inline-block;
+    margin-top: 40px;
+    
+}
+.first .second .link1, .link2
+{
+    text-decoration: none;
+    border: 2px solid orange;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 15px;
+    border-radius: 25px;
+}
+.first .second .link1
+{
+    color: #fff;
+    background-color: orange;
+}
+.first .second .link2
+{
+    color: orange;
+    background-color: #fff;
+}
